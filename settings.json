@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Mapa-OzHP.aternos.me",
+    "port": 17378,
     "version": "",
     "try-creative": false
   },
